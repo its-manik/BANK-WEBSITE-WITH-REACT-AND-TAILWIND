@@ -1,6 +1,6 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
-import Image from "../assets/1.png"
+import Image from "../assets/card.png"
 import GetStarted from "./GetStarted";
 
 const Hero = () => {
